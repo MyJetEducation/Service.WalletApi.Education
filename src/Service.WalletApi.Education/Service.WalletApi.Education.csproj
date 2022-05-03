@@ -19,7 +19,7 @@
     <PackageReference Include="Microsoft.Extensions.Logging" Version="6.0.0" />
     <PackageReference Include="MyJetWallet.Domain" Version="1.2.1" />
     <PackageReference Include="MyJetWallet.Sdk.Authorization" Version="3.0.10" />
-    <PackageReference Include="MyJetWallet.Sdk.WalletApi" Version="3.0.8" />
+    <PackageReference Include="MyJetWallet.Sdk.WalletApi" Version="3.0.9" />
     <PackageReference Include="MyJetWallet.Domain.ServiceBus" Version="1.2.0" />
     <PackageReference Include="MyJetWallet.Sdk.NoSql" Version="2.1.6" />
     <PackageReference Include="MyJetWallet.Sdk.Service" Version="2.1.7" />
